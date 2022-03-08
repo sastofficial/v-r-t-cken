@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Vår Tecken. Blommor</title>
+    <meta name="author" content="SA ST">
+    <style type="text/css">
+#green {
+  background-color: #219c39;
+}
+
+</style></head>
+  <body id="green">
+    <p style="text-align: center;"><img src="assets/own/IMG_4736.jpg" style="width: 900px; height: 518px;"><img
+        src="assets/own/IMG_4738.jpg" alt="" style="width: 900px; height: 518px;"></p>
+    <p style="text-align: center;"><br>
+    </p>
+    <p style="text-align: left;"><img src="assets/stock/Twemoji12pre12.1.3_1f3f5.svg"
+        alt="" style="width: 128px; height: 128px;"><a href="https://commons.wikimedia.org/wiki/File:Twemoji12pre12.1.3_1f3f5.svg">Twitter</a>,
+      <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via
+      Wikimedia Commons</p>
+  </body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Fåglar</title>
+    <meta name="author" content="SA ST">
+    <style type="text/css">
+#i-hate-ids {
+  background-color: #219c39;
+}
+
+</style></head>
+  <body id="i-hate-ids"><video src="assets/own/Img%204737-1.webm" preload="metadata"
+      controls="controls" height="500" width="890"></video> <audio controls="controls">
+      <source src="assets/own/Bird.m4a" type="audio/m4a"> <source src="assets/own/Bird.mp3"
+        type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+  </body>
+</html>
